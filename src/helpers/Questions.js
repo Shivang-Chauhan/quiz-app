@@ -5,7 +5,7 @@ export const Questions = [
     optionB: "O(log n)",
     optionC: "O(n)",
     optionD: "O(n^2)",
-    asnwer: "optionB",
+    answer: "optionB",
   },
   {
     prompt: "Which data structure follows the (LIFO) principle?",
@@ -13,7 +13,7 @@ export const Questions = [
     optionB: "Linked List",
     optionC: "Stack",
     optionD: "Hashtable",
-    asnwer: "optionC",
+    answer: "optionC",
   },
   {
     prompt: "Which sorting algorithm has the best worst-case time complexity?",
@@ -21,7 +21,7 @@ export const Questions = [
     optionB: "Insertion Sort",
     optionC: "Merge Sort",
     optionD: "Quick Sort",
-    asnwer: "optionC",
+    answer: "optionC",
   },
   {
     prompt: "In a singly linked list, how do you delete the first node efficiently?",
@@ -29,7 +29,7 @@ export const Questions = [
     optionB: "Update the head pointer to the second node.",
     optionC: "Both of the above.",
     optionD: "None of the above.",
-    asnwer: "optionB",
+    answer: "optionB",
   },
   {
     prompt: "Which search algorithm requires the data to be sorted beforehand?",
@@ -37,6 +37,6 @@ export const Questions = [
     optionB: "Binary Search",
     optionC: "Depth-First Search (DFS)",
     optionD: "Breadth-First Search (BFS)",
-    asnwer: "optionB",
+    answer: "optionB",
   },
 ];
